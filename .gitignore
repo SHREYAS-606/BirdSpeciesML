@@ -1,0 +1,7 @@
+data/CUB_200_2011/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
